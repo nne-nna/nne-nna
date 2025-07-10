@@ -45,3 +45,4 @@ I’ve worked on real-world projects ranging from dashboards to e-commerce store
 I started my frontend journey in university and have been building with passion and precision ever since. From dashboards to stores, I love creating products that people can actually use.
 
 ---
+
