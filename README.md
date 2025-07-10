@@ -10,7 +10,7 @@
 
 I'm a Frontend Developer with a background in Electronics and Computer Engineering. I enjoy turning ideas into sleek, functional web experiences using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-I’ve worked on real-world projects ranging from dashboards to e-commerce stores — focused on great design, clean code, and practical functionality.
+I’ve worked on real-world projects ranging from dashboards to e-commerce stores focused on great design, clean code, and practical functionality.
 
 ---
 
